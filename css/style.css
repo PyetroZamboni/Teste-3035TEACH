@@ -1,0 +1,34 @@
+.background-city{
+    background: url("../imagens/img.png") no-repeat;
+    background-size: cover;
+}
+.cor-texto{
+    color: white;
+}
+
+main{
+    height: 2500px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    font-size: 24px;
+    color: brown;
+}
+.conteudo-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background-home{
+    background: url("../imagens/images.jpg") no-repeat;
+    background-size: cover;
+
+}
+.imagens-logo{
+    margin: 5px;
+    height: 23px;
+}
+
